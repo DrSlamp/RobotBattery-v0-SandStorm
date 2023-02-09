@@ -5,6 +5,8 @@ Robot battery environment with agent   gym environments
 Python 
 pygame
 gym
+https://docs.python.org/3/library/venv.html <b> Venv required </b>
+
 gym_environments  (updated) number observers (256) & random rows and cols  
 added  robot assets (left, right, top) included in gym_environments_updated
 
