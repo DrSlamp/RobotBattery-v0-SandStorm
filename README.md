@@ -6,7 +6,7 @@ Python
 pygame
 gym
 gym_environments  (updated) number observers (256) & random rows and cols  
-added  robbot assets (left, right, top) included in gym_environments
+added  robbot assets (left, right, top) included in gym_environments_updated
 
 Use python main.py (included in lecture2)
 
